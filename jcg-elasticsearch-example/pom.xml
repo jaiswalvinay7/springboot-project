@@ -9,7 +9,7 @@
   <name>jcg-elasticsearch-example</name>
 
   <properties>
-    <elasticsearch.version>6.2.2</elasticsearch.version>
+    <elasticsearch.version>6.8.15</elasticsearch.version>
     <jackson.version>2.9.4</jackson.version>
     <java.version>1.8</java.version>
   </properties>
